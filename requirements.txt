@@ -1,0 +1,8 @@
+gunicorn
+bs4
+Django
+line_bot_sdk
+pandas
+psycopg2
+selenium
+django_heroku
