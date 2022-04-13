@@ -107,7 +107,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql', #postgresql
         'NAME': 'd4crf41rmge8ds', #資料庫名稱
         'USER':'vzkhdlccezxnep', #資料庫帳號
-        'PASSWORD':'637dfcb124c91f2e45e56035d6147d01f7e7c710bcebd84e26491873642c4c4d', #資料庫密碼
+        'PASSWORD':'*', #資料庫密碼
         'HOST':'ec2-3-209-61-239.compute-1.amazonaws.com',
         'PORT':'5432'
     }
