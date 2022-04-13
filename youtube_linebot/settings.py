@@ -23,18 +23,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 
-#Rechal_trychannel
-#LINE_CHANNEL_ACCESS_TOKEN = 'L0MDrVoraBeuF4f+mAMCWPw93ctKwJDlicR6GEaZJEF1a8QQgS1EiEiEYyg5PKke1rHo7OLEzwFDT5mIdwjukzZcrYvBfU/4xWCl/fNrR43KCrZ/9MIJCgQ0DAMWqBDXo2awFHUwp0EEliJeLnxQvgdB04t89/1O/w1cDnyilFU='
-#LINE_CHANNEL_SECRET ='b261f5a0f06e1b0ebed2119827f8070b'
-
-#11 token
-LINE_CHANNEL_ACCESS_TOKEN = 'ny5izUIKAPIaMBUgBA4aFOmvi61K5J5TvAFoqN+dHnWxXvcHyXUJUNYqtvZVznuyclcoH31BHr2PgBXoZmC++2X4JRktNnT1Dble8VCdGhtgLv5FF1U5jtBBTJ7VIldQoWTojdeC9QtMn6slIO4gHQdB04t89/1O/w1cDnyilFU='
-LINE_CHANNEL_SECRET = '97edf59060a048670e8094f915623b8b'
-
 #Irene token
-#LINE_CHANNEL_ACCESS_TOKEN = '8YXyZRJz+YNMssXXfUm1B5J5Djy+9Z4JMM3Ld7zkdz49DQH9fDUD6FxRBQQm6Q4bzqTKzTkW/8vdntYaN41eg8iFzutVSXIzYlUz2IAdzv2++kl33ynZKfYx29I0OzM3DRf976ZqVhYdBcOENSlfLwdB04t89/1O/w1cDnyilFU='
-#LINE_CHANNEL_SECRET = '4531c086d7629a9f44f82ff7a1b73dce'
-SECRET_KEY = 'django-insecure-cfi*x)sfa0j&(rz1zy7uq@lxh526!839ff6i19=c(kfnw_+7e6'
+LINE_CHANNEL_ACCESS_TOKEN = '*'
+LINE_CHANNEL_SECRET = '*'
+SECRET_KEY = '*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
